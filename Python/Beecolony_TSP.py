@@ -154,4 +154,4 @@ print("Setting max_epochs = " + str(max_epochs) + "\n")
 random.seed(1)
 solve(num_cities, num_bees, max_epochs)
 
-print("\nEnd simulated bee colony demo\n")
+print("\nEnd simulated bee colony sim\n")
