@@ -7,3 +7,8 @@
 - Place: Kolkata, West Bengal, India
 - Bio: Student, Coder, Web Developer
 - GitHub: [anishsaraogi](https://github.com/anishsaraogi)
+
+#### Name: [Axelle Lança](https://github.com/axellelanca)
+- Place: Paris, France
+- Bio: Student, Web Developer, UX/UI Designer
+- GitHub: [axellelanca](https://github.com/axellelanca)
