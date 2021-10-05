@@ -12,3 +12,8 @@
 - Place: Paris, France
 - Bio: Student, Web Developer, UX/UI Designer
 - GitHub: [axellelanca](https://github.com/axellelanca)
+
+#### Name: [Ishaan Jain](https://github.com/catunoo)
+- Place: Panchkula, India
+- Bio: Student, Coder, Front-end developer
+- GitHub: [catunoo](https://github.com/catunoo)
