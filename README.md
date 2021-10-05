@@ -10,12 +10,12 @@ Hacktoberfest, in its 8th year, is a month-long celebration of open source softw
  * Mentor others
  * Donate directly to open source projects
 ## How to contribute?
- * Add your name to ```contributers.md```.
+ * Add your name to ```contributors.md```.
  * Add Algorithms to Algorithms folders in any language.
  * Add Analytics to Analytics folder (Any type of data or fact analysis is welcome).
  * Please refrain from adding code files to main.
  * For documentations other than contributers.md, you can add UML diagrams for various software ideas, for that refer to 'Software Ideas' folder.
-## Contributers.md
+## Contributors.md
 Add your name to the `CONTRIBUTORS.md` file using the below convention:
 
 ```markdown
