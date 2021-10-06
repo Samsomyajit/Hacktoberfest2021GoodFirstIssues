@@ -13,7 +13,14 @@
 - Bio: Student, Web Developer, UX/UI Designer
 - GitHub: [axellelanca](https://github.com/axellelanca)
 
+
 #### Name: [Ishaan Jain](https://github.com/catunoo)
 - Place: Panchkula, India
 - Bio: Student, Coder, Front-end developer
 - GitHub: [catunoo](https://github.com/catunoo)
+
+#### Name: [Nitin kumar](https://github.com/capt-doki)
+- Place: Chandigarh , India
+- Bio: Student, Coder, Front-end Developer
+- GitHub: [Nitin Kumar](https://github.com/capt-doki)
+
