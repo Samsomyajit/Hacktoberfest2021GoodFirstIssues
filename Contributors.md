@@ -30,4 +30,8 @@
 - Bio: Student, Coder, Front-end Developer
 - GitHub: [Nitin Kumar](https://github.com/capt-doki)
 
+#### Name: [Deepak kumar](https://github.com/GURJ4R)
+- Place: Roorkee, Uttarakhand, India
+- Bio: Student, Coder
+- GitHub: [GURJ4R](https://github.com/GURJ4R)
 
