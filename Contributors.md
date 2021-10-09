@@ -35,3 +35,7 @@
 - Bio: Student, Coder
 - GitHub: [GURJ4R](https://github.com/GURJ4R)
 
+#### Name: [Sayed Mannan Ahmad](https://github.com/MannanAhmad)
+- Place: Uttar Pradesh, India
+- Bio: BI Developer, Software Developer, Full Stack Developer
+- Github: [Sayed Mannan Ahmad](https://github.com/MannanAhmad)
