@@ -35,3 +35,7 @@
 - Bio: Student, Coder
 - GitHub: [GURJ4R](https://github.com/GURJ4R)
 
+#### Name: [Ujjwal Hans](https://github.com/ujjwalhans)
+- Place: Meerur, Uttar Pradesh, India
+- Bio: Software Engineer
+- GitHub: [ujjwalhans](https://github.com/ujjwalhans)
