@@ -35,3 +35,8 @@
 - Bio: Student, Coder
 - GitHub: [GURJ4R](https://github.com/GURJ4R)
 
+#### Name: [Sayak Karar](https://github.com/Sayak-Karar-2581)
+- Place: West Bengal, India
+- Bio: Student, Coder, Ethical Hacker
+- GitHub: [Sayak Karar](https://github.com/Sayak-Karar-2581)
+
