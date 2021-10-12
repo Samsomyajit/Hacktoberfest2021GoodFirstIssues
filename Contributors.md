@@ -13,12 +13,10 @@
 - Bio: Student, Web Developer, UX/UI Designer
 - GitHub: [axellelanca](https://github.com/axellelanca)
 
-
 #### Name: [Suranjan Saha](https://github.com/Suranjan2002)
 - Place Durgapur, West Bengal
 - Bio: Student,MTA certified, Coder, Cyber security , Web Developer
 - Github: [Suranjan2002](https://github.com/Suranjan2002)
-
 
 #### Name: [Ishaan Jain](https://github.com/catunoo)
 - Place: Panchkula, India
@@ -35,6 +33,10 @@
 - Bio: Student, Coder
 - GitHub: [GURJ4R](https://github.com/GURJ4R)
 
+#### Name: [Ujjwal Hans](https://github.com/ujjwalhans)
+- Place: Meerur, Uttar Pradesh, India
+- Bio: Software Engineer
+- GitHub: [ujjwalhans](https://github.com/ujjwalhans)
 
 #### Name: [Sayed Mannan Ahmad](https://github.com/MannanAhmad)
 - Place: Uttar Pradesh, India
@@ -45,4 +47,5 @@
 - Place: West Bengal, India
 - Bio: Student, Coder, Ethical Hacker
 - GitHub: [Sayak Karar](https://github.com/Sayak-Karar-2581)
+
 
