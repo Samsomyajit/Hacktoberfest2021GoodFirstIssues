@@ -48,4 +48,7 @@
 - Bio: Student, Coder, Ethical Hacker
 - GitHub: [Sayak Karar](https://github.com/Sayak-Karar-2581)
 
-
+#### Name: [Pradeep Maurya](https://github.com/mauryapradeep)
+- Place: Haryana, India
+- Bio: Student, Programmer, Front-End Developer 
+- Github: [Pradeep Maurya](https://github.com/mauryapradeep)
