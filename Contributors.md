@@ -59,3 +59,8 @@
 - Place: Haryana, India
 - Bio: Student, Programmer, Front-End Developer 
 - Github: [Pradeep Maurya](https://github.com/mauryapradeep)
+
+#### Name: [Sandipan Bera](https://github.com/iamsandipanbera)
+- Place: Midnapore, West Bengal, India
+- Bio: Student. Android Developer. Full Stack
+- GitHub: [iamsandipanbera](https://github.com/iamsandipanbera)
