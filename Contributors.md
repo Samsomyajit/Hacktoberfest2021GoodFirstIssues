@@ -48,4 +48,9 @@
 - Bio: Student, Coder, Ethical Hacker
 - GitHub: [Sayak Karar](https://github.com/Sayak-Karar-2581)
 
+#### Name: [Ishaan Mane](https://github.com/ishaanmane)
+- Place: Maharashtra, India
+- Bio: Student, Coder
+- GitHub: [ishaanmane](https://github.com/ishaanmane)
+
 
