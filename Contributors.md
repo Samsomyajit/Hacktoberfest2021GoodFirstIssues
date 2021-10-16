@@ -59,3 +59,9 @@
 - Place: Haryana, India
 - Bio: Student, Programmer, Front-End Developer 
 - Github: [Pradeep Maurya](https://github.com/mauryapradeep)
+
+
+#### Name: [Intakhab alam](https://github.com/intakhab1)
+- Place: New Delhi, India
+- Bio: Student, Programmer
+- Github: [Intakhab Alam](https://github.com/intakhab1)
