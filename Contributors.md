@@ -61,7 +61,14 @@
 - Github: [Pradeep Maurya](https://github.com/mauryapradeep)
 
 
+#### Name: [Sandipan Bera](https://github.com/iamsandipanbera)
+- Place: Midnapore, West Bengal, India
+- Bio: Student. Android Developer. Full Stack
+- GitHub: [iamsandipanbera](https://github.com/iamsandipanbera)
+
+
 #### Name: [Intakhab alam](https://github.com/intakhab1)
 - Place: New Delhi, India
 - Bio: Student, Programmer
 - Github: [Intakhab Alam](https://github.com/intakhab1)
+
