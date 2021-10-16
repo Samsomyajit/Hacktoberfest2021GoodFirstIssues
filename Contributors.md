@@ -59,3 +59,9 @@
 - Place: Haryana, India
 - Bio: Student, Programmer, Front-End Developer 
 - Github: [Pradeep Maurya](https://github.com/mauryapradeep)
+
+
+#### Name: [Pratyush Kumar Shekhar](https://github.com/pratyushshekhar/)
+- Place: Bangalore,Karnataka,India
+- Bio: Student, Android Developer
+- GitHub: [pratyushshekhar](https://github.com/pratyushshekhar/)
