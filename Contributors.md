@@ -72,3 +72,8 @@
 - Bio: Student, Programmer
 - Github: [Intakhab Alam](https://github.com/intakhab1)
 
+#### Name: [Hamda Fizal](https://github.com/hamda-fizal)
+- Place: Kerala, India
+- Bio: Student, Developer
+- Github: [Hamda Fizal](https://github.com/hamda-fizal)
+
