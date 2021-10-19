@@ -72,3 +72,8 @@
 - Bio: Student, Programmer
 - Github: [Intakhab Alam](https://github.com/intakhab1)
 
+
+#### Name: [Mason Emery](https://github.com/masonmaui)
+- Place: UK
+- Bio: Student, developer
+- Github: [Mason Emery](https://github.com/masonmaui)
