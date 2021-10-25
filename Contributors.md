@@ -1,4 +1,4 @@
-#### Name: [Somyajit Chakraborty](https://github.com/Samsomyajit)
+﻿#### Name: [Somyajit Chakraborty](https://github.com/Samsomyajit)
 - Place: West Bengal, India
 - Bio: Software Engineer, GEEK, Otaku
 - Github: [Somyajit Chakraborty](https://github.com/Samsomyajit)
@@ -71,4 +71,11 @@
 - Place: New Delhi, India
 - Bio: Student, Programmer
 - Github: [Intakhab Alam](https://github.com/intakhab1)
+
+
+#### Name: [Priyank Namdeo](https://github.com/priyanknamdeo03)
+- Place: Jabalpur,Madhya Pradesh, India
+- Bio: Student. Python Developer. Front End Web Developer
+- GitHub: [priyanknamdeo03](https://github.com/priyanknamdeo03)
+
 
