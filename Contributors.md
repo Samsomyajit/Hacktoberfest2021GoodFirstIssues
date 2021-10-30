@@ -72,3 +72,7 @@
 - Bio: Student, Programmer
 - Github: [Intakhab Alam](https://github.com/intakhab1)
 
+#### Name: [Satvik Singh](https://github.com/CO18344)
+- Place: Punjab, India
+- Bio: Student, Programmer
+- Github: [Satvik Singh](https://github.com/CO18344)
