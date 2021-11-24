@@ -72,3 +72,7 @@
 - Bio: Student, Programmer
 - Github: [Intakhab Alam](https://github.com/intakhab1)
 
+#### Name: [Ayush0431](https://github.com/Ayush0431)
+- Place: Jharkhand,Dhanbad,India
+- Bio: Student, Programmer,Front-end Developer
+- Github: [Ayush0431](https://github.com/Ayush0431)
