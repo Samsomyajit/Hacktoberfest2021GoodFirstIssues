@@ -85,6 +85,12 @@
 - Github: [Intakhab Alam](https://github.com/intakhab1)
 
 
+#### Name: [Ayush0431](https://github.com/Ayush0431)
+- Place: Jharkhand,Dhanbad,India
+- Bio: Student, Programmer,Front-end Developer
+- Github: [Ayush0431](https://github.com/Ayush0431)
+
+
 #### Name: [Sanchita Karmakar](https://github.com/SanBuilds)
 - Place: Karnataka, India
 - Bio: Data Science Analyst
