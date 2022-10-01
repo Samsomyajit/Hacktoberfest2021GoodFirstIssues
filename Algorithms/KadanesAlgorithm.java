@@ -1,3 +1,4 @@
+import java.util.Scanner;
 public class Main {
     static int maxSubArraySum(int arr[]) {
         int length = arr.length;
@@ -18,7 +19,13 @@ public class Main {
     }
  
     public static void main(String[] arg) {
-        int [] arr = {-2, -3, 4, -1, -2, 1, 5, -3};
+        Scanner sc = new Scanner(System.in);
+        int n = sc.nextInt();
+        int[] arr = new int[n];
+        for(int i = 0;i<n;i++){
+            arr[i] = sc.nextInt();
+        }
+       
         System.out.println("Maximum sum is " +
                 maxSubArraySum(arr));
  
