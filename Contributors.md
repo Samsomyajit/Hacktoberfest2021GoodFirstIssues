@@ -85,6 +85,13 @@
 - Github: [Intakhab Alam](https://github.com/intakhab1)
 
 
+### Name: [Aditya Dubey] (https://github.com/adidubs)
+Name : Aditya Dubey
+Place: New Delhi, India
+Bio: Android Developer,Student, Programmer
+Github: https://github.com/adidubs
+
+
 #### Name: [Satvik Singh](https://github.com/CO18344)
 - Place: Punjab, India
 - Bio: Student, Programmer
@@ -101,6 +108,7 @@
 - Place: Karnataka, India
 - Bio: Data Science Analyst
 - Github: [Sanchita Karmakar](https://github.com/SanBuilds)
+
 
 
 
