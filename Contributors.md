@@ -85,6 +85,12 @@
 - Github: [Intakhab Alam](https://github.com/intakhab1)
 
 
+#### Name: [Satvik Singh](https://github.com/CO18344)
+- Place: Punjab, India
+- Bio: Student, Programmer
+- Github: [Satvik Singh](https://github.com/CO18344)
+
+
 #### Name: [Ayush0431](https://github.com/Ayush0431)
 - Place: Jharkhand,Dhanbad,India
 - Bio: Student, Programmer,Front-end Developer
@@ -95,5 +101,6 @@
 - Place: Karnataka, India
 - Bio: Data Science Analyst
 - Github: [Sanchita Karmakar](https://github.com/SanBuilds)
+
 
 
