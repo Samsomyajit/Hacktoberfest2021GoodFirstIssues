@@ -72,3 +72,8 @@
 - Bio: Student, Programmer
 - Github: [Intakhab Alam](https://github.com/intakhab1)
 
+
+#### Name: [Sanchita Karmakar](https://github.com/SanBuilds)
+- Place: Karnataka, India
+- Bio: Data Science Analyst
+- Github: [Sanchita Karmakar](https://github.com/SanBuilds)
