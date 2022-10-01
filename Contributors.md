@@ -60,6 +60,13 @@
 - Bio: Student, Programmer, Front-End Developer 
 - Github: [Pradeep Maurya](https://github.com/mauryapradeep)
 
+
+
+#### Name: [Pratyush Kumar Shekhar](https://github.com/pratyushshekhar/)
+- Place: Bangalore,Karnataka,India
+- Bio: Student, Android Developer
+- GitHub: [pratyushshekhar](https://github.com/pratyushshekhar/)
+
 #### Name: [Garima Mahajan](https://github.com/GarimaMahajan20)
 - Place: Maharashtra, India
 - Bio: upcoming Software Engineer
@@ -82,4 +89,5 @@
 - Place: Karnataka, India
 - Bio: Data Science Analyst
 - Github: [Sanchita Karmakar](https://github.com/SanBuilds)
+
 
