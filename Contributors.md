@@ -72,3 +72,8 @@
 - Bio: Student, Programmer
 - Github: [Intakhab Alam](https://github.com/intakhab1)
 
+### Name: [Aditya Dubey] (https://github.com/adidubs)
+Name : Aditya Dubey
+Place: New Delhi, India
+Bio: Android Developer,Student, Programmer
+Github: https://github.com/adidubs
