@@ -60,6 +60,11 @@
 - Bio: Student, Programmer, Front-End Developer 
 - Github: [Pradeep Maurya](https://github.com/mauryapradeep)
 
+#### Name: [Garima Mahajan](https://github.com/GarimaMahajan20)
+- Place: Maharashtra, India
+- Bio: upcoming Software Engineer
+- Github: [Garima Mahajan](https://github.com/GarimaMahajan20)
+
 
 #### Name: [Sandipan Bera](https://github.com/iamsandipanbera)
 - Place: Midnapore, West Bengal, India
@@ -77,3 +82,4 @@
 - Place: Karnataka, India
 - Bio: Data Science Analyst
 - Github: [Sanchita Karmakar](https://github.com/SanBuilds)
+
