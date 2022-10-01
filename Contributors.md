@@ -61,7 +61,33 @@
 - Github: [Pradeep Maurya](https://github.com/mauryapradeep)
 
 
+
 #### Name: [Pratyush Kumar Shekhar](https://github.com/pratyushshekhar/)
 - Place: Bangalore,Karnataka,India
 - Bio: Student, Android Developer
 - GitHub: [pratyushshekhar](https://github.com/pratyushshekhar/)
+
+#### Name: [Garima Mahajan](https://github.com/GarimaMahajan20)
+- Place: Maharashtra, India
+- Bio: upcoming Software Engineer
+- Github: [Garima Mahajan](https://github.com/GarimaMahajan20)
+
+
+#### Name: [Sandipan Bera](https://github.com/iamsandipanbera)
+- Place: Midnapore, West Bengal, India
+- Bio: Student. Android Developer. Full Stack
+- GitHub: [iamsandipanbera](https://github.com/iamsandipanbera)
+
+
+#### Name: [Intakhab alam](https://github.com/intakhab1)
+- Place: New Delhi, India
+- Bio: Student, Programmer
+- Github: [Intakhab Alam](https://github.com/intakhab1)
+
+
+#### Name: [Sanchita Karmakar](https://github.com/SanBuilds)
+- Place: Karnataka, India
+- Bio: Data Science Analyst
+- Github: [Sanchita Karmakar](https://github.com/SanBuilds)
+
+
