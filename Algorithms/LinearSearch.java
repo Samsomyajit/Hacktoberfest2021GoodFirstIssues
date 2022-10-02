@@ -1,37 +1,15 @@
-import java.util.Scanner;
-
-public class LinearSearch{
-
-public static void main(String [] args){
-
-int x;
-int a[]=new int[100];
-boolean found=false;
-Scanner scan=new Scanner(System.in);
-
-System.out.println("enter the size of the elements");
-int n=scan.nextInt();
-System.out.println("enter "+n+" elements ");
-for(int i=0;i<n;i++)
-a[i]=scan.nextInt();
-
-System.out.println("enter the  elements to find in list");
-x=scan.nextInt();
-
-
-for(int i=0;i<n;i++)
-{
-	if(a[i]==x)
-	{
-	System.out.println("element found at position:\t"+(i+1));
-	found=true;
-	 break;
-	}
-}
-
-if(!found)
-System.out.println("element not found in list");
-
-}
-
-}
+public class LinearSearchExample{    
+	public static int linearSearch(int[] arr, int key){    
+			for(int i=0;i<arr.length;i++){    
+				if(arr[i] == key){    
+					return i;    
+				}    
+			}    
+			return -1;    
+		}    
+		public static void main(String a[]){    
+			int[] a1= {10,20,30,50,70,90};    
+			int key = 50;    
+			System.out.println(key+" is found at index: "+linearSearch(a1, key));    
+		}    
+	}    
