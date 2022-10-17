@@ -1,4 +1,5 @@
 import java.util.Arrays;
+import java.util.Scanner;
 public class ArrayRotationProgram 
 {
     private static void leftRotate(int[] inputArray, int n) 
@@ -20,6 +21,13 @@ public class ArrayRotationProgram
     } 
     public static void main(String[] args) 
     {
-        leftRotate(new int[] {1,2,3,4,5,6,7}, 2);
+        Scanner sc = new Scanner(System.in);
+        int n = sc.nextInt();
+        int[] inputArray = new int[n];
+        for(int i = 0;i<n;i++){
+            inputArray[i] = sc.nextInt();
+        }
+        int t = sc.nextInt();
+        leftRotate(inputArray,t);
     }
 }
