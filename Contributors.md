@@ -123,3 +123,10 @@ Github: https://github.com/adidubs
 - Github: [Shivam Siddhapura](https://github.com/shivamsiddhapura)
 
 
+#### Name: [Snehasish Pathak](https://github.com/snehasish-pathak)
+- Place: Durgapur, West Bengal, India
+- Bio: Student,Competitive Programmer,Front-end Developer
+- Github: [Snehasish Pathak](https://github.com/snehasish-pathak)
+
+
+
