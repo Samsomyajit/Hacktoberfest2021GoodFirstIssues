@@ -28,6 +28,11 @@
 - Bio: Student, Coder, Front-end Developer
 - GitHub: [Nitin Kumar](https://github.com/capt-doki)
 
+#### Name: [Nancy Kasaudhan](https://github.com/nancyKasaudhan20)
+- Place: Delhi , India
+- Bio: Student, Coder, Front-end Developer
+- GitHub: [Nancy Kasaudhan](https://github.com/nancyKasaudhan20)
+
 #### Name: [Deepak kumar](https://github.com/GURJ4R)
 - Place: Roorkee, Uttarakhand, India
 - Bio: Student, Coder
