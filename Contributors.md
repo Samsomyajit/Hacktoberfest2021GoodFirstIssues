@@ -129,4 +129,9 @@ Github: https://github.com/adidubs
 - Github: [Snehasish Pathak](https://github.com/snehasish-pathak)
 
 
+### Name: [Vibekananda Champati](https://github.com/champati-v)
+- Place: Jatni, Odisha, India
+- Bio: CSE Student, Open source enthusiast, Graphic designer
+- Github: [Vibekananda Champati](https://github.com/champati-v)
+
 
