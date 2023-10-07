@@ -150,3 +150,9 @@ Github: https://github.com/adidubs
 - Bio: student, open source enthusiast, web developer
 - Github: [Anjali sharma](https://github.com/Anjalisharma3463)
 
+### Name: [Anup Kumar](https://github.com/enterbrianup)
+- place: Sheikhpura, Bihar, India
+- Bio: Graduate Fresher looking for job
+- Github: [enterbrianup](https://github.com/enterbrianup)
+- 
+
