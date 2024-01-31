@@ -20,7 +20,7 @@ If there is a draw, then the textView will display that the Match has been a tie
 
 3. Open the project folder in your IDE and make changes to the code.
 
-4. Save the changes and open the forked repository. You will see a button to make a pull request. Click on the button
-   to make a pull request.
+4. Save the changes and commit them. Open the forked repository to compare the changes you have made with the original
+   code in the Pull Requests column. You will see a button to make a pull request. Click on it to make a pull request.
 
 5. The pull request will be reviewed by the project maintainers and after it has passed all the checks it will be merged.
