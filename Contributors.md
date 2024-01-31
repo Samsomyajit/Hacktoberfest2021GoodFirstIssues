@@ -150,3 +150,8 @@ Github: https://github.com/adidubs
 - Bio: student, open source enthusiast, web developer
 - Github: [Anjali sharma](https://github.com/Anjalisharma3463)
 
+### Name: [Ishpreet Kaur](https://github.com/Ishpreet01)
+- place: Bareilly, Uttar Pradesh, India
+- Bio: student, open source enthusiast, full stack developer, DSA enthusiast
+- Github: [Ishpreet Kaur](https://github.com/Ishpreet01)
+
