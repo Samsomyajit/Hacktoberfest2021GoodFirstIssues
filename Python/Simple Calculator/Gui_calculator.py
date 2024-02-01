@@ -2,7 +2,7 @@ import tkinter as tk
 from tkinter import ttk
 
 root=tk.Tk()
-root.geometry("500x150")
+root.geometry("520x150")
 root.title("Calculator")
 
 frame=ttk.Frame(root)
@@ -50,9 +50,10 @@ def div():
 addB=ttk.Button(frame,text="Add",command=add).grid(column=0,row=2)
 addB=ttk.Button(frame,text="Sub",command=sub).grid(column=1,row=2)
 addB=ttk.Button(frame,text="Mul",command=mul).grid(column=2,row=2)
-addB=ttk.Button(frame,text="Div",command=div).grid(column=3,row=2)
+addB=ttk.Button(frame,text="Div",command=div).grid(column=3,row=2,padx=45,pady=10)
 
 for child in frame.winfo_children():
-    child.grid_configure(padx=5,pady=5)
+     if "Div" not in child.cget("text"):
+      child.grid_configure(padx=10,pady=10)
 
 root.mainloop()
