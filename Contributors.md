@@ -2,7 +2,10 @@
 - Place: West Bengal, India
 - Bio: Software Engineer, GEEK, Otaku
 - Github: [Somyajit Chakraborty](https://github.com/Samsomyajit)
-
+#### Name: [Anuska Kuila](https://github.com/AnuskaKuila7811)
+- Place: West Bengal, India
+- Bio: Software Engineer, coder
+- Github: [Anuska Kuila](https://github.com/AnuskaKuila7811)
 #### Name: [Anish Saraogi](https://github.com/anishsaraogi)
 - Place: Kolkata, West Bengal, India
 - Bio: Student, Coder, Web Developer
