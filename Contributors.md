@@ -150,3 +150,8 @@ Github: https://github.com/adidubs
 - Bio: student, open source enthusiast, web developer
 - Github: [Anjali sharma](https://github.com/Anjalisharma3463)
 
+### Name: [Unnati Jaiswal](https://github.com/unnati-jaiswal24/hacktober.git)
+- place: banglore, karnataka, India
+- Bio: student, open source enthusiast, web developer
+- Github: [Unnati Jaiswal](https://github.com/unnati-jaiswal24/hacktober.git)
+
